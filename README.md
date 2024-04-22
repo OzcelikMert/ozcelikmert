@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/OzcelikMert/ozcelikmert/assets/53866636/8c7c55c6-f91b-47fc-bcc5-2f6dbd82d29b"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mert OZCELIK</h1>
 
 <h3 align="center">I'm a Full-Stack Developer</h3>
@@ -11,6 +15,10 @@
 - 📫 How to reach me **mert.ozcelikk@hotmail.com**
 
 </h3>
+
+<p align="center">
+  <img align="center" height="150" width="250" src="https://github.com/OzcelikMert/ozcelikmert/assets/53866636/b01a1014-f35b-4377-bb3b-1b557b394568"/>
+</p>
 
 <p>&nbsp;</p>
 
