@@ -8,7 +8,7 @@
 
 <h3 align="left">
 
-- 🌱 I’m currently working with **NodeJS, TypeScript, React, Flutter**
+- 🌱 I’m currently coding with **NodeJS, TypeScript, React, Flutter**
 
 - 📫 How to reach me **mert.ozcelikk@hotmail.com**
 
